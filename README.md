@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning about the depths of the professional coding environments
 - 🤔 I’m looking for help in the job market
 - 💬 Ask me about C++, Python or any tech related stuff
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arieldveirin/" target="_blank">LinkedIn</a>, Gmail-ariel.private2@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arieldveirin/" target="_blank">LinkedIn</a>, Gmail - ariel.private2@gmail.com
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: DC & Marvel Fan, Gamer in the spare time
