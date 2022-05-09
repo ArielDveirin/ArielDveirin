@@ -7,7 +7,6 @@
 
 - :see_no_evil: I love to research new Tech.
 - :speech_balloon: Reach me by [sending me an email](ariel.private2@gmail.com).
-- :crown:
 - :zap: Trying to be better with each passing day.
 
 Some cool gadgets I made:
