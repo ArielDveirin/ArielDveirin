@@ -12,6 +12,7 @@
 Some cool gadgets I made:
 - :fire: [SENTRY](https://github.com/ArielDveirin/SENTRY-FIREWALL) - Firewall for Linux  / `Python` `C` `HTML` `JavaScript` `CSS`
 - :crown: [CHESS](https://github.com/ArielDveirin/Chess-Project) - CHESS Project  / `C++` `C`
+
 🎯 My goals for this year:
 - Find myself in a proffesional coding enviroment.
 - Expand my horizons and learn new skills such as Kotlin `Swift` `Go` `Kotlin` `PHP`
