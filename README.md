@@ -14,10 +14,10 @@ Some cool gadgets I made:
 - :crown: [CHESS](https://github.com/ArielDveirin/Chess-Project) - CHESS Project  / `C++` `C`
 
 🎯 My goals for this year:
-- Find myself in a proffesional coding enviroment.
+- Find myself in a proffesional coding environment.
 - Expand my horizons and learn new skills such as Kotlin `Swift` `Go` `Kotlin` `PHP`
 - Learn and start practicing in the ML Field.
 - Increase my professional network.
-- Fix and Complete my unfinished projects.
+- Add new projects into my GitHub repository.
 
 
